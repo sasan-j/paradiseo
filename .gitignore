@@ -23,6 +23,7 @@
 
 # ignore built files
 build/
+build_intel/
 release/*
 debug/*
 build/*
